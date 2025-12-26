@@ -60,7 +60,7 @@ exec --no-startup-id xtrlock
 bindsym $mod+Return exec $terminal
 
 # kill focused window
-bindsym Ctrl+F4 kill
+bindsym $mod+W kill
 
 # start dmenu (a program launcher)
 bindsym $mod+d exec --no-startup-id "dmenu_run -b -i -nb '#303446' -nf '#c6d0f5' -sb '#df9bb8' -sf '#232634' -fn 'FiraCode Nerd Font Mono Regular 10' -p 'Search:'"
