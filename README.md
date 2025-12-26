@@ -4,47 +4,6 @@ A Clean, Minimal Dark Theme Configuration
 Inspired by and centered around the Ellen Joe aesthetic.
 
 ---
-## Screenshots
-
-All components—from the WM to the terminal—are integrated with the Catppuccin Frappe. 
-
-<div align="center">
-    
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180230.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180230.png" width="48%" alt="i3 Tiled Layout" title="Lockscreen">
-</a>
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180211.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180211.png" width="48%" alt="Polybar" title="i3wm & i3stastus bar">
-</a>
-
-<br>
-
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180316.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180316.png" width="48%" alt="Dmenu" title="dmenu">
-</a>
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180410.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180410.png" width="48%" alt="Terminal" title="Lxterminal, atuin & neofetch">
-</a>
-
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180916.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180916.png" width="48%" alt="File-maneger" title="Superfile">
-</a>
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180949.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180949.png" width="48%" alt="Vim" title="SuperFile & Vim">
-</a>
-
-<br>
-
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T181110.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T181110.png" width="48%" alt="Browser" title="FireFox-esr">
-</a>
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T182207.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T182207.png" width="48%" alt="Power Menu" title="Reboot or Poweroff">
-</a>
-
-</div>
-
----
 
 ## Configuration Details
 
