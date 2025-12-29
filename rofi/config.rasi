@@ -4,5 +4,4 @@ configuration {
     font: "FiraCode Nerd Font Mono 10";
 }
 
-@import "catppuccin-mocha"
-@theme "catppuccin-mocha"
+@theme "catppuccin-default"
