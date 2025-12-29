@@ -1,8 +1,8 @@
 configuration {
-    modi: "drun,run";
     show-icons: true;
     drun-display-format: "{name}";
     font: "FiraCode Nerd Font Mono 10";
 }
 
+@import "catppuccin-mocha"
 @theme "catppuccin-mocha"
