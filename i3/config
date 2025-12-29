@@ -210,7 +210,7 @@ client.background       #303446
 # finds out, if available)
 bar {
         i3bar_command i3bar --transparency
-        tray_output none
+        #tray_output none
         position top
         font pango:FiraCode Nerd Font 10
         padding 0 8px 0px 4px
