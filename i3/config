@@ -214,7 +214,7 @@ bar {
         position top
         font pango:FiraCode Nerd Font 10
         padding 0 8px 0px 4px
-        status_command i3status | i3status-title-on-bar --fixed-width 170 --color '#df9bb8'
+        status_command i3status #| i3status-title-on-bar --fixed-width 170 --color '#df9bb8'
        
         colors {
                 background #303446
