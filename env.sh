@@ -1,4 +1,5 @@
 export PATH="$PATH:/home/vgonzalez/.local/share/JetBrains/Toolbox/scripts"
+export PATH=$PATH:/usr/sbin
 export GTK_THEME=Adwaita:dark
 export GTK_APPLICATION_PREFER_DARK_THEME=1
 export XDG_CURRENT_DESKTOP=i3
