@@ -39,7 +39,7 @@ exec --no-startup-id nm-applet
 #picom
 exec --no-startup-id picom --experimental-backends -b
 
-#wallpaper 
+#wallpaper
 exec --no-startup-id ~/.fehbg
 
 # Use pactl to adjust volume in PulseAudio.
@@ -68,7 +68,7 @@ bindsym $mod+f exec --no-startup-id $terminal sh -c 'spf'
 
 
 #launch browser
-bindsym $mod+b exec $browser 
+bindsym $mod+b exec $browser
 
 # kill focused window
 bindsym $mod+q kill
@@ -222,7 +222,6 @@ client.background       #303446
 #         font pango:FiraCode Nerd Font 10
 #         padding 0 8px 0px 4px
 #         status_command i3status #| i3status-title-on-bar --fixed-width 170 --color '#df9bb8'
-       
 #         colors {
 #                 background #303446
 #                 statusline #c6d0f5
@@ -235,6 +234,7 @@ client.background       #303446
 #                 binding_mode       #303446 #e78284 #232634
 #         }
 # }
+
 # Polybar
 exec_always --no-startup-id ~/.config/polybar/launch.sh
 
